@@ -1,0 +1,29 @@
+# COSTOM_TERMUX
+install
+$ termux-setup-storage
+  
+$ pkg update && pkg upgrade && pkg install git -y
+
+$ git clone https://github.com/MR.CYBER_BLOODY/T-Remix
+
+$ ls
+
+$ cd T-Remix
+
+$ ls
+
+$ chmod +x *
+
+$ bash t-remix.sh
+remove
+$ cd T-Remix
+
+$ ls
+
+$ bash remove-login.sh
+banner remove
+$ cd T-Remix
+
+$ ls
+
+$ bash remove-banner.sh
